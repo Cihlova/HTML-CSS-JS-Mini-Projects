@@ -1,1 +1,1 @@
-# HTML-CSS-JavaScript-Mini-Projects
+# HTML & CSS & JS Mini Projects
