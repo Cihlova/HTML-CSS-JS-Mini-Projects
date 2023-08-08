@@ -2,7 +2,7 @@ body {
   font-family: "Poppins", sans-serif;
   font-size: 18px;
   color: #ffffff;
-  background-image: url(/weather-app_bg.png);
+  background-image: url(weather-app_bg.png);
   background-repeat: no-repeat;
   height: 100vh;
   margin: 0;
